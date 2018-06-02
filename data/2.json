@@ -1,24 +1,23 @@
 [
     {   
-        "title": "El Atlético de Madrid gana la UEFA Europa League",
-        "date": "16/05/2018",
-        "img": "img/patetico.jpg",
-        "alt": "Atlético de Madrid",
-        "desc": "El conjunto madrileño consigue derrotar al Olympique de Marsella por 3-0 con una gran actuación del jugador francés, Antoine Griezmann."
+        "title": "Joaquín Caparrós vuelve al banquillo del Sevilla",
+        "date": "03/05/2018",
+        "img": "img/caparros.jpg",
+        "alt": "Caparrós",
+        "desc": "Joaquín Caparrós se sentará al banquillo de un Sevilla que está muy necesitado de puntos para conseguir el pase a la UEFA Europa League. "
     },
     {
-        "title": "Pep Guardiola descarta a Isco",
-        "date": "30/05/2018",
-        "img": "img/guardiola.jpg",
-        "alt": "Guardiola",
-        "desc": "El entrenador del Manchester City, Pep Guardiola, ha negado que haya algún tipo de contacto con el jugador del Madrid, Isco Alarcón. La afición merengue puede respirar aliviada."
+        "title": "Álvaro Morata, fuera del mundial de Rusia.",
+        "date": "21/05/2018",
+        "img": "img/morata.jpg",
+        "alt": "morata",
+        "desc": "El jugador español se queda fuera de la lista definitiva para ir al mundial. Manda un mensaje de apoyo por sus redes sociales a todos sus compañeros y les desea mucha suerte."
     },
     {   
-        "title": "Arsène Wegner deja el Arsenal",
-        "date": "22/05/2018",
-        "img": "img/wegner.jpg",
-        "alt": "wegner",
-        "desc": "El entrenador francés, Arsène Wegner deja el Arsenal, después de 20 años dirigiendo al conjunto Gun.
+        "title": "Geromel se cuela en la lista de Brasil para ir a Rusia",
+        "date": "14/05/2018",
+        "img": "img/geromel.jpg",
+        "alt": "geromel",
+        "desc": "La sorpresa a saltado en Brasil cuando el seleccionador ha incluido a la lista de jugadores, al jugador ex-mallorquinista y actualmente del Gremio, Geromel para disputar el mundial. "
     }
 ]
-
