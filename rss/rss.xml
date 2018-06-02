@@ -3,18 +3,18 @@
 
 <channel>
     <title>Mundo Vomitivo</title>
-    <link>https://rawgit.com/xavic01/Pagina-noticies/master/NoticiesWeb/index.html</link>
+    <link>https://rawgit.com/xavic01/paginanoticies2/master/index.html</link>
     <description>Este es el pero diario deportivo que existe sobre la Tierra.</description>
 
     <item>
     	<title>El Mallorca se proclama campeón de Liga</title>
-    	<link>https://rawgit.com/xavic01/Pagina-noticies/master/NoticiesWeb/index.html</link>
+    	<link>https://rawgit.com/xavic01/paginanoticies2/master/index.html</link>
     	<description>El Mallorca consiguió este domingo el campeonato regular de la Liga.</description>
     </item>
 
     <item>
     	<title>El Madrid consigue su Decimotercera Copa de Europa</title>
-    	<link>https://rawgit.com/xavic01/Pagina-noticies/master/NoticiesWeb/index.html</link>
+    	<link>https://rawgit.com/xavic01/paginanoticies2/master/index.html</link>
     	<description>Zinedine Zidane consiguó su tercera Copa de Europa seguida.</description>
     </item>
 </channel>
