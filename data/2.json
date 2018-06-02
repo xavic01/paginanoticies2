@@ -1,24 +1,24 @@
 [
     {   
-        "title": "",
-        "date": "",
-        "img": "",
-        "alt": "",
-        "desc": ""
+        "title": "El Atlético de Madrid gana la UEFA Europa League",
+        "date": "16/05/2018",
+        "img": "img/patetico.jpg",
+        "alt": "Atlético de Madrid",
+        "desc": "El conjunto madrileño consigue derrotar al Olympique de Marsella por 3-0 con una gran actuación del jugador francés, Antoine Griezmann."
     },
     {
-        "title": "",
-        "date": "",
-        "img": "",
-        "alt": "",
-        "desc": ""
+        "title": "Pep Guardiola descarta a Isco",
+        "date": "30/05/2018",
+        "img": "img/guardiola.jpg",
+        "alt": "Guardiola",
+        "desc": "El entrenador del Manchester City, Pep Guardiola, ha negado que haya algún tipo de contacto con el jugador del Madrid, Isco Alarcón. La afición merengue puede respirar aliviada."
     },
     {   
-        "title": "",
-        "date": "",
-        "img": "",
-        "alt": "",
-        "desc": ""
+        "title": "Arsène Wegner deja el Arsenal",
+        "date": "22/05/2018",
+        "img": "img/wegner.jpg",
+        "alt": "wegner",
+        "desc": "El entrenador francés, Arsène Wegner deja el Arsenal, después de 20 años dirigiendo al conjunto Gun.
     }
 ]
 
