@@ -1,5 +1,7 @@
 # PÁGINA DE NOTICIAS
 
+Enlace del Rawgit: https://rawgit.com/xavic01/paginanoticies2/master/index.html
+
 # Contiene:
 - 1 archivo .css que incluye la parte del móvil y la parte de ordenador.
 - 1 archivo .js
