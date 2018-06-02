@@ -23,7 +23,7 @@ $(document).ready(function() {
 function cargarNoticias(){
     //
     if(archivo<3){
-    $.getJSON( "https://rawgit.com/xavic01/Pagina-noticies/master/NoticiesWeb/data/"+archivo+".json", function( jsonObject ) {
+    $.getJSON( "https://rawgit.com/xavic01/paginanoticies2/master/data/"+archivo+".json", function( jsonObject ) {
         insertarNoticia( jsonObject );
     });
     archivo++;
